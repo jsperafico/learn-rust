@@ -1,5 +1,5 @@
 [package]
-name = "match-control-flow"
+name = "separating-modules"
 version = "0.1.0"
 authors = ["Jonathan Pinto Sperafico <jhonny.potter@gmail.com>"]
 edition = "2018"
