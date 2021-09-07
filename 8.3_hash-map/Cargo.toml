@@ -1,5 +1,5 @@
 [package]
-name = "storing-text"
+name = "hash-map"
 version = "0.1.0"
 authors = ["Jonathan Pinto Sperafico"]
 edition = "2018"
