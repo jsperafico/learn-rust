@@ -26,7 +26,7 @@ fn largest_char(list: &[char]) -> char {
 //     let mut largest = list[0];
 
 //     for &item in list {
-//         // Unable to figure out PartialEq
+//         // Unable to figure out PartialOrd
 //         if item > largest {
 //             largest = item;
 //         }
